@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brycheev/telegram-booking/static/css/main.073c9b0a.css",
+    "main.js": "/brycheev/telegram-booking/static/js/main.bc3cc0e4.js",
+    "static/js/787.5fef9f37.chunk.js": "/brycheev/telegram-booking/static/js/787.5fef9f37.chunk.js",
+    "static/media/logo.svg": "/brycheev/telegram-booking/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brycheev/telegram-booking/index.html",
+    "main.073c9b0a.css.map": "/brycheev/telegram-booking/static/css/main.073c9b0a.css.map",
+    "main.bc3cc0e4.js.map": "/brycheev/telegram-booking/static/js/main.bc3cc0e4.js.map",
+    "787.5fef9f37.chunk.js.map": "/brycheev/telegram-booking/static/js/787.5fef9f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc3cc0e4.js"
+  ]
+}
