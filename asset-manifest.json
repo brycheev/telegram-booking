@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/telegram-booking/static/css/main.631cd7ce.css",
-    "main.js": "/telegram-booking/static/js/main.c3e73c13.js",
+    "main.js": "/telegram-booking/static/js/main.b2d78e22.js",
     "static/js/787.5fef9f37.chunk.js": "/telegram-booking/static/js/787.5fef9f37.chunk.js",
     "static/media/restaurant-table-set-QJDnWn5-600 (3rd copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (3rd copy).fe1284615ea8884e56d1.jpg",
     "static/media/restaurant-table-set-QJDnWn5-600 (4th copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (4th copy).fe1284615ea8884e56d1.jpg",
@@ -11,11 +11,11 @@
     "static/media/restaurant-table-set-QJDnWn5-600.jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600.fe1284615ea8884e56d1.jpg",
     "index.html": "/telegram-booking/index.html",
     "main.631cd7ce.css.map": "/telegram-booking/static/css/main.631cd7ce.css.map",
-    "main.c3e73c13.js.map": "/telegram-booking/static/js/main.c3e73c13.js.map",
+    "main.b2d78e22.js.map": "/telegram-booking/static/js/main.b2d78e22.js.map",
     "787.5fef9f37.chunk.js.map": "/telegram-booking/static/js/787.5fef9f37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.631cd7ce.css",
-    "static/js/main.c3e73c13.js"
+    "static/js/main.b2d78e22.js"
   ]
 }
