@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/telegram-booking/static/css/main.073c9b0a.css",
-    "main.js": "/telegram-booking/static/js/main.db4f7a39.js",
+    "main.css": "/telegram-booking/static/css/main.631cd7ce.css",
+    "main.js": "/telegram-booking/static/js/main.c3e73c13.js",
     "static/js/787.5fef9f37.chunk.js": "/telegram-booking/static/js/787.5fef9f37.chunk.js",
-    "static/media/logo.svg": "/telegram-booking/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/restaurant-table-set-QJDnWn5-600 (3rd copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (3rd copy).fe1284615ea8884e56d1.jpg",
+    "static/media/restaurant-table-set-QJDnWn5-600 (4th copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (4th copy).fe1284615ea8884e56d1.jpg",
+    "static/media/restaurant-table-set-QJDnWn5-600 (5th copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (5th copy).fe1284615ea8884e56d1.jpg",
+    "static/media/restaurant-table-set-QJDnWn5-600 (another copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (another copy).fe1284615ea8884e56d1.jpg",
+    "static/media/restaurant-table-set-QJDnWn5-600 (copy).jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600 (copy).fe1284615ea8884e56d1.jpg",
+    "static/media/restaurant-table-set-QJDnWn5-600.jpg": "/telegram-booking/static/media/restaurant-table-set-QJDnWn5-600.fe1284615ea8884e56d1.jpg",
     "index.html": "/telegram-booking/index.html",
-    "main.073c9b0a.css.map": "/telegram-booking/static/css/main.073c9b0a.css.map",
-    "main.db4f7a39.js.map": "/telegram-booking/static/js/main.db4f7a39.js.map",
+    "main.631cd7ce.css.map": "/telegram-booking/static/css/main.631cd7ce.css.map",
+    "main.c3e73c13.js.map": "/telegram-booking/static/js/main.c3e73c13.js.map",
     "787.5fef9f37.chunk.js.map": "/telegram-booking/static/js/787.5fef9f37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.db4f7a39.js"
+    "static/css/main.631cd7ce.css",
+    "static/js/main.c3e73c13.js"
   ]
 }
